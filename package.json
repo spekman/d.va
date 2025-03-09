@@ -1,0 +1,21 @@
+{
+  "name": "d.va",
+  "version": "1.0.0",
+  "description": "Discord AI Virtual Assistant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "gemini",
+    "chatbot"
+  ],
+  "author": "spekman",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "discord.js": "^14.18.0"
+  }
+}
